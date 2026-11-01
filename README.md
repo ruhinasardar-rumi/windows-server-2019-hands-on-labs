@@ -1,5 +1,4 @@
-# windows-server-2019-hands-on-labs
-Comprehensive hands-on labs and technical documentation covering Windows Server 2019 administration, Active Directory domain promotion, WDS, Failover Clustering, Hyper-V replication, GPO hardening, and performance monitoring.
+
 # Windows Server 2019 Administration & Cloud Infrastructure Labs
 
 Welcome to my **Windows Server 2019 Administration & Infrastructure** lab repository! This repository documents a comprehensive series of hands-on labs focused on deploying, configuring, securing, and managing enterprise-grade Windows Server environments, Active Directory domains, virtualization hosts, and high-availability clusters.
